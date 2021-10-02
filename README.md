@@ -1,6 +1,8 @@
 # War Card Game
 Simple Javascript War Card Game Simulation
 
+# NOTE: Have to extract Node_Modules.zip after downloading
+
 For the final project you will be creating an automated version of the classic card game WAR.
 Think about how you would build this project and write your plan down. Consider classes such as Card, Deck, and Player and what fields and methods they might each have. You can implement the game however you’d like (i.e. printing to the console, using alert, or some other way). The completed project should, when ran, do the following:
 -	Deal 26 Cards to two Players from a Deck. 
